@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "taco.orders.pagesize",
+      "type": "java.lang.String",
+      "description": "Określa maksymalną liczbę zamóień wyświetlanych na liście."
+    }
+  ]
+}
